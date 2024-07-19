@@ -1,0 +1,14 @@
+C:\Users\Asus\OneDrive\Documents\UNI\sem4\OOP\Project\HotelReservationSystem\bin\Debug\HotelReservationSystem.exe.config
+C:\Users\Asus\OneDrive\Documents\UNI\sem4\OOP\Project\HotelReservationSystem\bin\Debug\HotelReservationSystem.exe
+C:\Users\Asus\OneDrive\Documents\UNI\sem4\OOP\Project\HotelReservationSystem\bin\Debug\HotelReservationSystem.pdb
+C:\Users\Asus\OneDrive\Documents\UNI\sem4\OOP\Project\HotelReservationSystem\obj\Debug\HotelReservationSystem.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Documents\UNI\sem4\OOP\Project\HotelReservationSystem\obj\Debug\HotelReservationSystem.Properties.Resources.resources
+C:\Users\Asus\OneDrive\Documents\UNI\sem4\OOP\Project\HotelReservationSystem\obj\Debug\HotelReservationSystem.csproj.GenerateResource.cache
+C:\Users\Asus\OneDrive\Documents\UNI\sem4\OOP\Project\HotelReservationSystem\obj\Debug\HotelReservationSystem.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Documents\UNI\sem4\OOP\Project\HotelReservationSystem\obj\Debug\HotelReservationSystem.exe
+C:\Users\Asus\OneDrive\Documents\UNI\sem4\OOP\Project\HotelReservationSystem\obj\Debug\HotelReservationSystem.pdb
+C:\Users\Asus\OneDrive\Documents\UNI\sem4\OOP\Project\HotelReservationSystem\obj\Debug\HotelReservationSystem.Form1.resources
+C:\Users\Asus\OneDrive\Documents\UNI\sem4\OOP\Project\HotelReservationSystem\obj\Debug\HotelReservationSystem.ReservationForm.resources
+C:\Users\Asus\OneDrive\Documents\UNI\sem4\OOP\Project\HotelReservationSystem\obj\Debug\HotelReservationSystem.customerform.resources
+C:\Users\Asus\OneDrive\Documents\UNI\sem4\OOP\Project\HotelReservationSystem\obj\Debug\HotelReservationSystem.displayform.resources
+C:\Users\Asus\OneDrive\Documents\UNI\sem4\OOP\Project\HotelReservationSystem\obj\Debug\HotelReservationSystem.checkoutform.resources
